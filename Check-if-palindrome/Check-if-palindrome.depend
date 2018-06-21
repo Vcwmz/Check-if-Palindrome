@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529552336 source:e:\github\check-if-palindrome\check-if-palindrome\main.c
+	<stdio.h>
+	<stdlib.h>
+
